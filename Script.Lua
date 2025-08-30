@@ -1,2 +1,1 @@
-print("Hello from GitHub script!")
-game.Players.LocalPlayer.PlayerGui.ScreenGui.TextLabel.Text = "Loaded script!"
+loadstring(game:HttpGet('https://pastebin.com/raw/gJuT5vDE'))()
